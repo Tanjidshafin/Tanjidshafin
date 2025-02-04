@@ -4,11 +4,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Mern-Stack+Web+Developer;Passionate+About+Frontend+&+Backend;Building+Awesome+Web+Apps;Always+Learning+New+Things!)
 
-## 📌 About Me  
-
-🔹 Passionate about building user-friendly and scalable applications.  
-🔹 Currently exploring **Next.js**, **React**, and **Node.js**.  
-🔹 Open to collaborations and exciting new projects!  
+### 🚀 About Me
+- 🔭 I’m currently working on **cool web projects**
+- 🌱 I’m learning **advanced React & backend technologies**
+- 👯 I’m open to **collaborations on web development**
+- ⚡ Fun fact: **I love coding at night!**
 
 ---
 
