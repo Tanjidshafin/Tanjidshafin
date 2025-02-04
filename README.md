@@ -60,13 +60,13 @@
 
 <br>
 
- <h2>
+ <h2 align="center">
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" style="margin-right: 10px;">
     Tech Stack & Tools
   </h2>
 
   <!-- Frontend -->
-  <div class="skills-section">
+  <div align="center" class="skills-section">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
     <br/>
     <!-- Backend -->
