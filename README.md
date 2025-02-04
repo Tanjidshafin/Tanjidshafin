@@ -1,4 +1,4 @@
-## Hi there 👋
+![Animated Hero Banner](https://i.ibb.co.com/wZ68gSp6/github-header-image-2.png)
 
 <!--
 **Tanjidshafin/Tanjidshafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
