@@ -67,13 +67,13 @@
 
   <!-- Frontend -->
   <div align="center" class="skills-section">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <br/>
     <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
     <br/>
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </div>
 
 <br>
