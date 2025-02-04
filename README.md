@@ -103,7 +103,10 @@
 
 <br>
 
-<h2 align="center">🌐 Digital Nexus 🌐</h2>
+ <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
+    Let's Connect & Create Together!
+  </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tanjid-karim-shafin-835365249/" target="_blank">
