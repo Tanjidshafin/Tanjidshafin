@@ -19,32 +19,42 @@
 </h2>
 
 <table>
-  <tr>
-    <td>
-      <h3>🚀 Current Mission</h3>
-      <ul>
-        <li>Crafting innovative web solutions</li>
-        <li>Exploring the frontiers of AI in web development</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🧠 Learning Quest</h3>
-      <ul>
-        <li>Advanced React Patterns</li>
-        <li>Microservices Architecture</li>
-        <li>Cloud-Native Development</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🎯 2024 Objectives</h3>
-      <ul>
-        <li>Contribute to major open-source projects</li>
-        <li>Launch a tech community platform</li>
-        <li>Master serverless architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/rocket.png" width="60" height="60"/>
+        <br><strong>🚀 Current Mission</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Crafting innovative web solutions<br>
+          • Exploring AI frontiers in web dev<br>
+          • Building scalable MERN applications
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/brain.png" width="60" height="60"/>
+        <br><strong>🧠 Learning Quest</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Advanced React Patterns<br>
+          • Microservices Architecture<br>
+          • Cloud-Native Development
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/target.png" width="60" height="60"/>
+        <br><strong>🎯 2024 Objectives</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Major open-source contributions<br>
+          • Launch tech community platform<br>
+          • Master serverless architecture
+        </p>
+      </td>
+    </tr>
+  </table>
 
 <br>
 
