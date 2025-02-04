@@ -25,7 +25,7 @@
 - 🚀 Currently crafting: **Innovative Web Solutions**
 - 🌱 Deep diving into: **Advanced React Patterns & System Architecture**
 - 💡 Exploring: **Cloud Technologies & Microservices**
-- 🎯 2024 Goals: **Contributing to Open Source & Building a Tech Community**
+- 🎯 2025 Goals: **Contributing to Open Source & Building a Tech Community**
 
 ## 🛠️ Technology Arsenal
 
