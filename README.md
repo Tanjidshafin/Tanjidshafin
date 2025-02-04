@@ -1,6 +1,6 @@
 ![Animated Hero Banner](https://i.imgur.com/Gw4uZph.png)
 
-## 👋 Hey there, I'm [Your Name]!
+## 👋 Hey there, I'm Tanjid Karim Shafin!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Mern-Stack+Web+Developer;Passionate+About+Frontend+&+Backend;Building+Awesome+Web+Apps;Always+Learning+New+Things!)
 
