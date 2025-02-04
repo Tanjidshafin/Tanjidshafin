@@ -105,7 +105,7 @@
 
  <h2 align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
-    Let's Connect & Create Together!
+    Let's Connect!
   </h2>
 
 <div align="center">
@@ -132,9 +132,7 @@
 
 <h2 align="center">💬 Coding Philosophy 💬</h2>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br>
 
