@@ -1,4 +1,5 @@
-![Animated Hero Banner](https://imgur.com/Gw4uZph)
+![Animated Hero Banner](https://i.imgur.com/Gw4uZph.png)
+
 
 
 <!--
