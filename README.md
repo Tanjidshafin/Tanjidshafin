@@ -18,7 +18,8 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
-<table>
+<div align="center">
+  <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/nolan/64/rocket.png" width="60" height="60"/>
@@ -55,6 +56,7 @@
       </td>
     </tr>
   </table>
+</div>
 
 <br>
 
