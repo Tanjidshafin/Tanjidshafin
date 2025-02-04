@@ -60,29 +60,21 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Wizardry Arsenal 🛠️</h2>
-
-<div align="center">
+ <h2>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" style="margin-right: 10px;">
+    Tech Stack & Tools
+  </h2>
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
-  
-  <br>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=black"/>
-  
-  <br>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black"/>
-
-</div>
+  <div class="skills-section">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+    <br/>
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+    <br/>
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma" />
+  </div>
 
 <br>
 
