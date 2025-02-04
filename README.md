@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
@@ -31,7 +31,6 @@
 ## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak">
 </p>
 
