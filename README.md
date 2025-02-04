@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjid%20Karim%20Shafin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=MERN+Stack+Sorcerer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Frontend+%26+Backend+Alchemist+%F0%9F%94%AE;Crafting+Digital+Wonders+%E2%9C%A8;Always+Learning%2C+Always+Evolving+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
@@ -7,7 +7,7 @@
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  <img src="https://i.imgur.com/Gw4uZph.png" width="100%"/>
+  <img src="https://sjc.microlink.io/Bq6NZJdOltr9Hmg3SSXbxr4pLj4VnzdeV6SZ9mLhY_o-ZEgHnHUtQU-YgHhZNgXxct5Gk0psRaAbZC7X3Nwikw.jpeg" width="100%"/>
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -18,58 +18,89 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
-<table>
-  <tr>
-    <td>
-      <h3>🚀 Current Mission</h3>
-      <ul>
-        <li>Crafting innovative web solutions</li>
-        <li>Exploring the frontiers of AI in web development</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🧠 Learning Quest</h3>
-      <ul>
-        <li>Advanced React Patterns</li>
-        <li>Microservices Architecture</li>
-        <li>Cloud-Native Development</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🎯 2024 Objectives</h3>
-      <ul>
-        <li>Contribute to major open-source projects</li>
-        <li>Launch a tech community platform</li>
-        <li>Master serverless architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/rocket.png" width="60" height="60"/>
+        <br><strong>🚀 Current Mission</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Crafting innovative web solutions<br>
+          • Exploring AI frontiers in web dev<br>
+          • Building scalable MERN applications
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/brain.png" width="60" height="60"/>
+        <br><strong>🧠 Learning Quest</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Advanced React Patterns<br>
+          • Microservices Architecture<br>
+          • Cloud-Native Development
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/nolan/64/target.png" width="60" height="60"/>
+        <br><strong>🎯 2024 Objectives</strong>
+        <br>
+        <br>
+        <p align="left">
+          • Major open-source contributions<br>
+          • Launch tech community platform<br>
+          • Master serverless architecture
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <h2 align="center">🛠️ Tech Wizardry Arsenal 🛠️</h2>
 
 <div align="center">
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
-  
-  <br>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=black"/>
-  
-  <br>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black"/>
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/html-5.png" width="48" height="48"/>
+        <br>HTML5
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/css-filetype.png" width="48" height="48"/>
+        <br>CSS3
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/javascript.png" width="48" height="48"/>
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/react-native.png" width="48" height="48"/>
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/nodejs.png" width="48" height="48"/>
+        <br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/express-js.png" width="48" height="48"/>
+        <br>Express.js
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/git.png" width="48" height="48"/>
+        <br>Git
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" width="48" height="48"/>
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
