@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="L:\Project\image.png" alt="Hero Banner" width="100%" />
-</div>
+![Header](./github-header-image.png)
 
 <!--
 **Tanjidshafin/Tanjidshafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
