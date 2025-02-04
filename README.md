@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+[Imgur](https://imgur.com/Gw4uZph)
 
 <!--
 **Tanjidshafin/Tanjidshafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
