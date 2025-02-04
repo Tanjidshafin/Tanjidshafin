@@ -1,10 +1,8 @@
 ![Animated Hero Banner](https://i.imgur.com/Gw4uZph.png)
 
-# 🚀 Welcome to My GitHub Profile!  
+## 👋 Hey there, I'm [Your Name]!
 
-Hi there! I'm **[Your Name]**, a passionate developer who loves solving problems with code. I specialize in **[Your Specialization, e.g., Frontend, Backend, Full Stack]** and am always eager to explore new technologies.
-
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Passionate+About+Frontend+&+Backend;Building+Awesome+Web+Apps;Always+Learning+New+Things!)
 
 ## 📌 About Me  
 
