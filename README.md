@@ -32,34 +32,17 @@ Hi there! I'm **[Your Name]**, a passionate developer who loves solving problems
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
 
-## 📂 Pinned Repositories  
-
-### [📌 Project 1 - Your Project Name](https://github.com/YourUsername/YourRepo1)  
-- 🌍 [Live Demo](https://yourlivelink.com)  
-- 🚀 **Technologies Used**: React, Tailwind, Firebase  
-- 📝 **Description**: A fully responsive web application for **[Project Purpose]**.  
-- 📸 **Screenshot**:  
-  ![Project Screenshot](https://i.imgur.com/YOUR_IMAGE.png)  
-
-### [📌 Project 2 - Your Project Name](https://github.com/YourUsername/YourRepo2)  
-- 🌍 [Live Demo](https://yourlivelink.com)  
-- 🚀 **Technologies Used**: Node.js, Express, MongoDB  
-- 📝 **Description**: A backend API for managing **[Feature]**.  
-- 📸 **Screenshot**:  
-  ![Project Screenshot](https://i.imgur.com/YOUR_IMAGE.png)  
-
----
 
 ## 🌍 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
   <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>
@@ -69,8 +52,8 @@ Hi there! I'm **[Your Name]**, a passionate developer who loves solving problems
 
 ## 📧 Contact  
 
-📍 **Location**: Your City, Country  
-📩 **Email**: your.email@example.com  
+📍 **Location**: Barishal, Bangladesh  
+📩 **Email**: tanjidshafin1234@gmail.com  
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
@@ -78,7 +61,7 @@ Hi there! I'm **[Your Name]**, a passionate developer who loves solving problems
 
 ### 🏆 Profile Contributions  
 
-![Profile Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical)  
+![Profile Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanjidshafin&theme=radical)  
 
 ---
 
