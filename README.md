@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
   </a>
 
 </p>
