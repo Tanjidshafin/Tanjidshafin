@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/wZ68gSp6/github-header-image-2.png" alt="Hero Banner" width="100%" />
+  <img src="L:\Project\image.png" alt="Hero Banner" width="100%" />
 </div>
 
 <!--
