@@ -2,7 +2,7 @@
 
 ## 👋 Hey there, I'm [Your Name]!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Passionate+About+Frontend+&+Backend;Building+Awesome+Web+Apps;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Mern-Stack+Web+Developer;Passionate+About+Frontend+&+Backend;Building+Awesome+Web+Apps;Always+Learning+New+Things!)
 
 ## 📌 About Me  
 
