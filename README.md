@@ -45,7 +45,7 @@
       </td>
       <td align="center" width="33%">
         <img src="https://img.icons8.com/nolan/64/target.png" width="60" height="60"/>
-        <br><strong>🎯 2024 Objectives</strong>
+        <br><strong>🎯 2025 Objectives</strong>
         <br>
         <br>
         <p align="left">
