@@ -1,8 +1,6 @@
 ![Animated Hero Banner](https://i.imgur.com/Gw4uZph.png)
 
-# 🚀 Welcome to My GitHub Profile!  
-
-Hi there! I'm **[Your Name]**, a passionate developer who loves solving problems with code. I specialize in **[Your Specialization, e.g., Frontend, Backend, Full Stack]** and am always eager to explore new technologies.
+## 👋 Hey there, I'm Tanjid Karim Shafin!
 
 ---
 
