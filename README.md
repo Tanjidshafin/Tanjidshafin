@@ -73,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
     <br/>
     <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,npm" />
   </div>
 
 <br>
