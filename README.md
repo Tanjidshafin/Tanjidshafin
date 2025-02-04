@@ -91,7 +91,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF"/>
    <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
   </a>
 </div>
 
