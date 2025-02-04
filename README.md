@@ -103,7 +103,7 @@
 
 <br>
 
- <h2>
+ <h2 align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
     Let's Connect & Create Together!
   </h2>
