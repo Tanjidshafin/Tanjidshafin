@@ -1,4 +1,4 @@
-![Animated Hero Banner](https://i.ibb.co.com/wZ68gSp6/github-header-image-2.png)
+![Animated Hero Banner](https://imgur.com/Gw4uZph)
 
 
 <!--
