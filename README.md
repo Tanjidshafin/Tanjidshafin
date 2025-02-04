@@ -14,17 +14,20 @@
 
 ## 🛠️ Tech Stack  
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933"></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### Frontend
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+### Tools & Others
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
