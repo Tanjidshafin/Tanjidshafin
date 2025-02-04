@@ -78,7 +78,11 @@
 
 <br>
 
-<h2 align="center">📊 Code Chronicles 📊</h2>
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    GitHub Analytics
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </h2>
 
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanjidshafin&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="95%">
