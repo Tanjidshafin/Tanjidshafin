@@ -127,7 +127,11 @@
   <img src="https://komarev.com/ghpvc/?username=Tanjidshafin&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </div>
 
-<h2 align="center">💬 Coding Philosophy 💬</h2>
+<h3 align="center">
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+    "Code is poetry written in logic"
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  </h3>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
