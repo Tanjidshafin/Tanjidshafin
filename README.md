@@ -1,6 +1,6 @@
 <div align="center">
   
-![Banner](https://sjc.microlink.io/Bq6NZJdOltr9Hmg3SSXbxr4pLj4VnzdeV6SZ9mLhY_o-ZEgHnHUtQU-YgHhZNgXxct5Gk0psRaAbZC7X3Nwikw.jpeg)
+![Animated Hero Banner](https://i.imgur.com/Gw4uZph.png)
 
 # ⚡ Tanjid Karim Shafin
 
