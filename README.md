@@ -104,7 +104,7 @@
   
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanjidshafin&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99"/>
+    [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&hide_border=true)](https://git.io/streak-stats)
   </p>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanjidshafin&theme=radical" width="95%"/>
