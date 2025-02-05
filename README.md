@@ -5,7 +5,7 @@
 
   <br>
   
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.ibb.co.com/wrp30V4p/IMG-20250205-140456.png" height="20" width="100%">
   
   <img src="https://i.imgur.com/Gw4uZph.png" width="100%"/>
   
