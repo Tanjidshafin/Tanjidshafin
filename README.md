@@ -70,20 +70,26 @@
 <br>
 
  <h2 align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" style="margin-right: 10px;">
-    Tech Stack & Tools
-  </h2>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> 
+  Technical Expertise
+</h2>
 
-  <!-- Frontend -->
-  <div align="center" class="skills-section">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    <br/>
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    <br/>
-    <!-- Tools -->
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma,npm" />
-  </div>
+<div align="center">
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  </p>
+  
+  <h3>Backend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  </p>
+  
+  <h3>Tools & Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,vercel,vscode,postman,figma" />
+  </p>
+</div>
 
 <br>
 
