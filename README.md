@@ -47,9 +47,9 @@
         <br>
         <br>
         <p align="left">
-          • Advancing the next js<br>
-          • Exploring the full stack web developing tools<br>
-          • Work Practically and Giving Contributions
+          • Building Projects<br>
+          • Exploring the next js<br>
+          • Master Framer Motion 
         </p>
       </td>
       <td align="center" width="33%">
@@ -59,8 +59,8 @@
         <br>
         <p align="left">
           • Major open-source contributions<br>
-          • Launch tech community platform<br>
-          • Master serverless architecture
+          • Explores Full Stack Tools<br>
+          • Master Animations Sides
         </p>
       </td>
     </tr>
