@@ -47,9 +47,9 @@
         <br>
         <br>
         <p align="left">
-          • Advanced React Patterns<br>
-          • Microservices Architecture<br>
-          • Cloud-Native Development
+          • Advancing the next js<br>
+          • Exploring the full stack web developing tools<br>
+          • Work Practically and Giving Contributions
         </p>
       </td>
       <td align="center" width="33%">
