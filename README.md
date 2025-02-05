@@ -104,15 +104,14 @@
   
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF"/>
-    <a href="https://git.io/streak-stats">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&hide_border=true" alt="GitHub Streak">
-</a>
-
+   
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjidshafin&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00FF99" width="49%"/>
   </p>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanjidshafin&theme=radical" width="95%"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjidshafin&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00FF99" width="95%"/>
+   <a href="https://git.io/streak-stats">
+  <img width="95%" src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&hide_border=true" alt="GitHub Streak">
+</a>
+ 
 </div>
 
 <br>
