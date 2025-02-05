@@ -100,17 +100,16 @@
   </h2>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanjidshafin&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="95%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF"/>
-   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=Tanjidshafin&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-  </a>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanjidshafin&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="95%">
+  
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanjidshafin&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanjidshafin&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99"/>
+  </p>
 
-<br>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanjidshafin&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanjidshafin&theme=radical" width="95%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanjidshafin&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=00FF99" width="95%"/>
 </div>
 
 <br>
