@@ -151,5 +151,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
