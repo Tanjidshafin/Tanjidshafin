@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-  Passionate MERN Stack Developer with expertise in building scalable web applications. Specializing in React.js, Node.js, and cloud architecture. Committed to creating efficient, user-centric solutions while staying current with emerging technologies.
+  Passionate MERN Stack Developer with expertise in building scalable web applications. Specializing in React.js, Node.js. Committed to creating efficient, user-centric solutions while staying current with emerging technologies.
 </p>
 
 <h2 align="center">
