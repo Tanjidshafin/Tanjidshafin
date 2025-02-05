@@ -11,12 +11,21 @@
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  About Me
+</h2>
+
+<p align="center">
+  Passionate MERN Stack Developer with expertise in building scalable web applications. Specializing in React.js, Node.js. Committed to creating efficient, user-centric solutions while staying current with emerging technologies.
+</p>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   Tanjid's Coding Odyssey
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
+
 
 <div align="center">
   <table>
