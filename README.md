@@ -142,7 +142,7 @@
 
 <h3 align="center">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-    "Code is poetry written in logic"
+    "Code, learn, repeat."
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </h3>
 
